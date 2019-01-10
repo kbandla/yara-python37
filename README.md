@@ -13,6 +13,7 @@ This is a build of yara-python for Windows x64, and Python 3.7 x64:
 
 * 64-bit Windows 
 * 64-bit Python 3.7
+* [VC 2017 Redistributable](https://aka.ms/vs/15/release/vc_redist.x64.exe)
 
 ## Installation
 
